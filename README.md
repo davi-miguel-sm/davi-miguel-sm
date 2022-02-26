@@ -20,7 +20,6 @@
   <img align="center" alt="Git" height="30" width="80" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="NPM" height="30" width="100" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img align="center" alt="NodeJs" height="30" width="100" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img align="center" alt="Gif" height="250" width="300" src="https://cdn.discordapp.com/attachments/836395334573228047/946934186080608296/coding.gif">
 
  </div>
  
