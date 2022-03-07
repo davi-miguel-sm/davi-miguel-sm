@@ -20,6 +20,8 @@
   <img align="center" alt="Git" height="30" width="80" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="NPM" height="30" width="100" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img align="center" alt="NodeJs" height="30" width="100" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="Bootstrap" height="30" width="120" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Gulp" height="30" width="80" src="https://img.shields.io/badge/Gulp-CC4444?style=for-the-badge&logo=gulp&logoColor=white">
 
  </div>
  
