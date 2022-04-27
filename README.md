@@ -4,9 +4,9 @@
 - ⛰️ Learning more about Web Services
 
  <div >
-  <a href="https://github.com/d-miguelsm" >
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=d-miguelsm&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-miguelsm&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+  <a href="https://github.com/davi-miguel-sm" >
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davi-miguel-sm&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-miguel-sm&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </div>
 
  
@@ -32,7 +32,7 @@
   <a href = "mailto:davi.miguel2020@gmail.com"><img height="40" width="120" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dev-dmiguelsm/" target="_blank"><img height="40" width="140" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/d-miguelsm/d-miguelsm/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/davi-miguel-sm/davi-miguel-sm/blob/output/github-contribution-grid-snake.svg)
   
  </div>
  
