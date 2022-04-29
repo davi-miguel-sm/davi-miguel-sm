@@ -20,8 +20,8 @@
   <img align="center" alt="Git" height="30" width="70" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="NPM" height="30" width="70" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img align="center" alt="NodeJs" height="30" width="90" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img align="center" alt="Bootstrap" height="30" width="130" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br><br>
+  <img align="center" alt="Bootstrap" height="30" width="130" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Gulp" height="30" width="80" src="https://img.shields.io/badge/Gulp-CC4444?style=for-the-badge&logo=gulp&logoColor=white">
   <img align="center" alt="React" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="TypeScript" height="30" width="120" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
