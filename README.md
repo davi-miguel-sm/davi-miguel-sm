@@ -1,7 +1,7 @@
 ## ***Hello!*** I'm Davi Miguel.
 
 - 💻 Full Stack technologies explorer
-- ⛰️ Learning more about Web Services
+- ⛰️ Learning more about Web Services, Docker and Java.
 
  <div >
   <a href="https://github.com/davi-miguel-sm" >
