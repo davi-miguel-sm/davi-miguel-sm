@@ -5,7 +5,7 @@
 
  <div >
   <a href="https://github.com/davi-miguel-sm" >
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-miguel-sm&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+  <img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-miguel-sm&layout=compact&langs_count=10&theme=chartreuse-dark"/>
  </div>
  <br>
  <div>
